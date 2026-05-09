@@ -1,0 +1,938 @@
+{
+  "video_path": "/kaggle/input/datasets/yashkumar008/t20-full-match-dataset/ENG vs IND.mp4",
+  "sample_rate": 16000,
+  "window_sec": 1.25,
+  "hop_sec": 0.25,
+  "num_raw_candidates": 806,
+  "num_final_highlights": 75,
+  "highlights": [
+    {
+      "start": "00:29:24",
+      "end": "00:35:08",
+      "peak_time": "00:29:38",
+      "start_sec": 1763.5,
+      "end_sec": 2107.5,
+      "peak_time_sec": 1778.5,
+      "score": 2.0659,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "02:37:14",
+      "end": "02:44:38",
+      "peak_time": "02:37:28",
+      "start_sec": 9433.5,
+      "end_sec": 9878.5,
+      "peak_time_sec": 9448.5,
+      "score": 1.8531,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "01:44:20",
+      "end": "01:45:36",
+      "peak_time": "01:44:35",
+      "start_sec": 6260.25,
+      "end_sec": 6336.5,
+      "peak_time_sec": 6275.25,
+      "score": 1.5349,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "01:58:32",
+      "end": "02:01:33",
+      "peak_time": "01:58:46",
+      "start_sec": 7111.5,
+      "end_sec": 7292.75,
+      "peak_time_sec": 7126.5,
+      "score": 1.5208,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "00:18:40",
+      "end": "00:19:32",
+      "peak_time": "00:18:54",
+      "start_sec": 1119.5,
+      "end_sec": 1171.5,
+      "peak_time_sec": 1134.5,
+      "score": 1.4901,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:34:12",
+      "end": "02:36:02",
+      "peak_time": "02:34:26",
+      "start_sec": 9251.5,
+      "end_sec": 9362.0,
+      "peak_time_sec": 9266.5,
+      "score": 1.4466,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "00:16:53",
+      "end": "00:18:21",
+      "peak_time": "00:17:08",
+      "start_sec": 1012.75,
+      "end_sec": 1101.0,
+      "peak_time_sec": 1027.75,
+      "score": 1.3603,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "00:40:03",
+      "end": "00:47:20",
+      "peak_time": "00:40:15",
+      "start_sec": 2402.75,
+      "end_sec": 2840.25,
+      "peak_time_sec": 2415.0,
+      "score": 1.3241,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "01:25:42",
+      "end": "01:32:26",
+      "peak_time": "01:25:57",
+      "start_sec": 5142.25,
+      "end_sec": 5546.25,
+      "peak_time_sec": 5157.25,
+      "score": 1.2464,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "00:10:24",
+      "end": "00:11:56",
+      "peak_time": "00:10:39",
+      "start_sec": 624.25,
+      "end_sec": 716.25,
+      "peak_time_sec": 639.25,
+      "score": 1.2198,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:48:09",
+      "end": "01:54:24",
+      "peak_time": "01:48:24",
+      "start_sec": 6489.25,
+      "end_sec": 6863.75,
+      "peak_time_sec": 6504.25,
+      "score": 1.1714,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "00:00:00",
+      "end": "00:03:32",
+      "peak_time": "00:00:09",
+      "start_sec": 0.0,
+      "end_sec": 211.5,
+      "peak_time_sec": 9.25,
+      "score": 1.1532,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "00:38:10",
+      "end": "00:39:46",
+      "peak_time": "00:38:25",
+      "start_sec": 2289.75,
+      "end_sec": 2386.25,
+      "peak_time_sec": 2304.75,
+      "score": 1.1509,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "00:24:07",
+      "end": "00:28:35",
+      "peak_time": "00:24:22",
+      "start_sec": 1447.25,
+      "end_sec": 1715.25,
+      "peak_time_sec": 1462.25,
+      "score": 1.123,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "02:19:36",
+      "end": "02:22:21",
+      "peak_time": "02:19:51",
+      "start_sec": 8375.75,
+      "end_sec": 8540.75,
+      "peak_time_sec": 8390.75,
+      "score": 1.1092,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "03:24:13",
+      "end": "03:26:20",
+      "peak_time": "03:24:28",
+      "start_sec": 12252.75,
+      "end_sec": 12380.25,
+      "peak_time_sec": 12267.75,
+      "score": 1.1004,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "03:05:27",
+      "end": "03:10:36",
+      "peak_time": "03:05:42",
+      "start_sec": 11127.25,
+      "end_sec": 11436.5,
+      "peak_time_sec": 11142.25,
+      "score": 1.0974,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "02:25:48",
+      "end": "02:30:50",
+      "peak_time": "02:26:03",
+      "start_sec": 8748.0,
+      "end_sec": 9049.75,
+      "peak_time_sec": 8763.0,
+      "score": 1.0823,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "02:54:52",
+      "end": "03:05:04",
+      "peak_time": "02:55:07",
+      "start_sec": 10492.25,
+      "end_sec": 11104.5,
+      "peak_time_sec": 10507.25,
+      "score": 1.0752,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "03:15:18",
+      "end": "03:18:41",
+      "peak_time": "03:15:32",
+      "start_sec": 11717.5,
+      "end_sec": 11921.0,
+      "peak_time_sec": 11732.5,
+      "score": 1.0698,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "00:13:14",
+      "end": "00:14:26",
+      "peak_time": "00:13:29",
+      "start_sec": 794.0,
+      "end_sec": 865.75,
+      "peak_time_sec": 809.0,
+      "score": 1.0697,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:07:56",
+      "end": "02:08:33",
+      "peak_time": "02:08:10",
+      "start_sec": 7675.5,
+      "end_sec": 7713.0,
+      "peak_time_sec": 7690.5,
+      "score": 1.0541,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "00:03:47",
+      "end": "00:06:51",
+      "peak_time": "00:04:02",
+      "start_sec": 227.0,
+      "end_sec": 411.25,
+      "peak_time_sec": 242.0,
+      "score": 1.0518,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "03:11:28",
+      "end": "03:12:51",
+      "peak_time": "03:11:44",
+      "start_sec": 11488.5,
+      "end_sec": 11570.75,
+      "peak_time_sec": 11503.5,
+      "score": 1.0485,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:01:50",
+      "end": "02:06:18",
+      "peak_time": "02:02:05",
+      "start_sec": 7310.0,
+      "end_sec": 7577.75,
+      "peak_time_sec": 7325.0,
+      "score": 1.0474,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "02:45:06",
+      "end": "02:50:54",
+      "peak_time": "02:45:22",
+      "start_sec": 9906.5,
+      "end_sec": 10254.25,
+      "peak_time_sec": 9921.5,
+      "score": 1.0474,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "00:14:56",
+      "end": "00:16:32",
+      "peak_time": "00:15:11",
+      "start_sec": 896.0,
+      "end_sec": 991.5,
+      "peak_time_sec": 911.0,
+      "score": 1.0439,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "00:49:28",
+      "end": "00:54:14",
+      "peak_time": "00:49:43",
+      "start_sec": 2967.75,
+      "end_sec": 3253.75,
+      "peak_time_sec": 2982.75,
+      "score": 1.0382,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:05:58",
+      "end": "01:07:48",
+      "peak_time": "01:06:13",
+      "start_sec": 3957.75,
+      "end_sec": 4068.25,
+      "peak_time_sec": 3972.75,
+      "score": 1.0322,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:36:11",
+      "end": "02:36:51",
+      "peak_time": "02:36:19",
+      "start_sec": 9370.75,
+      "end_sec": 9411.0,
+      "peak_time_sec": 9379.0,
+      "score": 0.9858,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "02:31:37",
+      "end": "02:34:03",
+      "peak_time": "02:31:52",
+      "start_sec": 9097.25,
+      "end_sec": 9242.75,
+      "peak_time_sec": 9112.25,
+      "score": 0.9782,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "00:35:23",
+      "end": "00:38:00",
+      "peak_time": "00:35:38",
+      "start_sec": 2123.25,
+      "end_sec": 2279.5,
+      "peak_time_sec": 2138.25,
+      "score": 0.9678,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "03:20:45",
+      "end": "03:23:37",
+      "peak_time": "03:21:00",
+      "start_sec": 12045.25,
+      "end_sec": 12217.0,
+      "peak_time_sec": 12060.25,
+      "score": 0.9557,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "01:42:14",
+      "end": "01:44:10",
+      "peak_time": "01:42:29",
+      "start_sec": 6134.0,
+      "end_sec": 6250.5,
+      "peak_time_sec": 6149.0,
+      "score": 0.9369,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "03:19:02",
+      "end": "03:19:59",
+      "peak_time": "03:19:16",
+      "start_sec": 11941.5,
+      "end_sec": 11999.25,
+      "peak_time_sec": 11956.5,
+      "score": 0.896,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "00:12:09",
+      "end": "00:13:00",
+      "peak_time": "00:12:24",
+      "start_sec": 728.75,
+      "end_sec": 780.25,
+      "peak_time_sec": 743.75,
+      "score": 0.8555,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:08:30",
+      "end": "01:11:15",
+      "peak_time": "01:08:45",
+      "start_sec": 4109.75,
+      "end_sec": 4274.75,
+      "peak_time_sec": 4124.75,
+      "score": 0.852,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "03:13:00",
+      "end": "03:14:42",
+      "peak_time": "03:13:15",
+      "start_sec": 11580.25,
+      "end_sec": 11682.0,
+      "peak_time_sec": 11595.25,
+      "score": 0.8406,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "00:07:16",
+      "end": "00:08:11",
+      "peak_time": "00:07:31",
+      "start_sec": 435.75,
+      "end_sec": 490.75,
+      "peak_time_sec": 450.75,
+      "score": 0.8391,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "02:09:13",
+      "end": "02:10:38",
+      "peak_time": "02:09:28",
+      "start_sec": 7753.0,
+      "end_sec": 7838.5,
+      "peak_time_sec": 7768.0,
+      "score": 0.8224,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "02:51:15",
+      "end": "02:52:47",
+      "peak_time": "02:51:30",
+      "start_sec": 10274.75,
+      "end_sec": 10367.25,
+      "peak_time_sec": 10289.75,
+      "score": 0.813,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "02:53:18",
+      "end": "02:53:41",
+      "peak_time": "02:53:33",
+      "start_sec": 10397.75,
+      "end_sec": 10421.0,
+      "peak_time_sec": 10412.75,
+      "score": 0.7921,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "03:10:49",
+      "end": "03:11:09",
+      "peak_time": "03:11:04",
+      "start_sec": 11449.0,
+      "end_sec": 11469.0,
+      "peak_time_sec": 11464.0,
+      "score": 0.7919,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:23:03",
+      "end": "02:23:23",
+      "peak_time": "02:23:18",
+      "start_sec": 8583.25,
+      "end_sec": 8603.25,
+      "peak_time_sec": 8598.25,
+      "score": 0.7914,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "00:08:27",
+      "end": "00:09:24",
+      "peak_time": "00:08:42",
+      "start_sec": 506.75,
+      "end_sec": 564.0,
+      "peak_time_sec": 521.75,
+      "score": 0.7809,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "00:21:36",
+      "end": "00:23:49",
+      "peak_time": "00:21:52",
+      "start_sec": 1296.5,
+      "end_sec": 1429.0,
+      "peak_time_sec": 1311.5,
+      "score": 0.7794,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:53:51",
+      "end": "02:54:11",
+      "peak_time": "02:54:06",
+      "start_sec": 10431.0,
+      "end_sec": 10451.0,
+      "peak_time_sec": 10446.0,
+      "score": 0.7778,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "00:56:16",
+      "end": "01:03:25",
+      "peak_time": "00:56:32",
+      "start_sec": 3376.5,
+      "end_sec": 3804.75,
+      "peak_time_sec": 3391.5,
+      "score": 0.7752,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:13:53",
+      "end": "01:21:57",
+      "peak_time": "01:14:08",
+      "start_sec": 4433.25,
+      "end_sec": 4917.0,
+      "peak_time_sec": 4448.25,
+      "score": 0.769,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "03:20:16",
+      "end": "03:20:36",
+      "peak_time": "03:20:31",
+      "start_sec": 12016.0,
+      "end_sec": 12036.0,
+      "peak_time_sec": 12031.0,
+      "score": 0.7583,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:56:22",
+      "end": "01:57:37",
+      "peak_time": "01:56:37",
+      "start_sec": 6981.75,
+      "end_sec": 7056.75,
+      "peak_time_sec": 6996.75,
+      "score": 0.7525,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:54:33",
+      "end": "01:56:05",
+      "peak_time": "01:54:48",
+      "start_sec": 6872.75,
+      "end_sec": 6965.0,
+      "peak_time_sec": 6887.75,
+      "score": 0.7491,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:32:54",
+      "end": "01:41:55",
+      "peak_time": "01:33:09",
+      "start_sec": 5574.25,
+      "end_sec": 6114.75,
+      "peak_time_sec": 5589.25,
+      "score": 0.7464,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:45:51",
+      "end": "01:47:53",
+      "peak_time": "01:46:06",
+      "start_sec": 6351.25,
+      "end_sec": 6472.75,
+      "peak_time_sec": 6366.25,
+      "score": 0.7394,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:54:23",
+      "end": "02:54:43",
+      "peak_time": "02:54:38",
+      "start_sec": 10463.25,
+      "end_sec": 10483.25,
+      "peak_time_sec": 10478.25,
+      "score": 0.7389,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "00:47:36",
+      "end": "00:49:16",
+      "peak_time": "00:47:51",
+      "start_sec": 2856.0,
+      "end_sec": 2956.25,
+      "peak_time_sec": 2871.0,
+      "score": 0.734,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:23:35",
+      "end": "01:25:21",
+      "peak_time": "01:23:50",
+      "start_sec": 5014.75,
+      "end_sec": 5121.25,
+      "peak_time_sec": 5029.75,
+      "score": 0.7299,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:11:34",
+      "end": "01:13:33",
+      "peak_time": "01:11:50",
+      "start_sec": 4294.5,
+      "end_sec": 4412.75,
+      "peak_time_sec": 4309.5,
+      "score": 0.7246,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:22:26",
+      "end": "01:23:18",
+      "peak_time": "01:22:41",
+      "start_sec": 4946.25,
+      "end_sec": 4998.0,
+      "peak_time_sec": 4961.25,
+      "score": 0.7241,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:31:00",
+      "end": "02:31:20",
+      "peak_time": "02:31:15",
+      "start_sec": 9059.75,
+      "end_sec": 9079.75,
+      "peak_time_sec": 9074.75,
+      "score": 0.7167,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "00:28:54",
+      "end": "00:29:15",
+      "peak_time": "00:29:08",
+      "start_sec": 1733.5,
+      "end_sec": 1755.25,
+      "peak_time_sec": 1748.5,
+      "score": 0.7155,
+      "source": [
+        "audio_peak",
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "03:14:52",
+      "end": "03:15:07",
+      "peak_time": "03:14:57",
+      "start_sec": 11692.25,
+      "end_sec": 11707.25,
+      "peak_time_sec": 11696.75,
+      "score": 0.7042,
+      "source": [
+        "audio_sustained"
+      ]
+    },
+    {
+      "start": "00:54:36",
+      "end": "00:55:58",
+      "peak_time": "00:54:51",
+      "start_sec": 3276.0,
+      "end_sec": 3357.75,
+      "peak_time_sec": 3291.0,
+      "score": 0.6936,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:18:43",
+      "end": "02:19:03",
+      "peak_time": "02:18:58",
+      "start_sec": 8323.25,
+      "end_sec": 8343.25,
+      "peak_time_sec": 8338.25,
+      "score": 0.6911,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "00:19:58",
+      "end": "00:21:10",
+      "peak_time": "00:20:13",
+      "start_sec": 1198.0,
+      "end_sec": 1270.0,
+      "peak_time_sec": 1213.0,
+      "score": 0.6728,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:10:47",
+      "end": "02:12:23",
+      "peak_time": "02:11:02",
+      "start_sec": 7847.25,
+      "end_sec": 7943.0,
+      "peak_time_sec": 7862.25,
+      "score": 0.6239,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:23:33",
+      "end": "02:25:34",
+      "peak_time": "02:23:48",
+      "start_sec": 8613.25,
+      "end_sec": 8734.0,
+      "peak_time_sec": 8628.25,
+      "score": 0.6211,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:06:28",
+      "end": "02:07:10",
+      "peak_time": "02:06:42",
+      "start_sec": 7587.5,
+      "end_sec": 7630.25,
+      "peak_time_sec": 7602.5,
+      "score": 0.6082,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:15:31",
+      "end": "02:16:12",
+      "peak_time": "02:15:46",
+      "start_sec": 8130.75,
+      "end_sec": 8172.0,
+      "peak_time_sec": 8145.75,
+      "score": 0.6079,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:12:33",
+      "end": "02:14:38",
+      "peak_time": "02:12:48",
+      "start_sec": 7953.25,
+      "end_sec": 8078.0,
+      "peak_time_sec": 7968.25,
+      "score": 0.5973,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:16:20",
+      "end": "02:18:14",
+      "peak_time": "02:16:35",
+      "start_sec": 8180.25,
+      "end_sec": 8294.0,
+      "peak_time_sec": 8195.25,
+      "score": 0.5945,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:04:02",
+      "end": "01:05:49",
+      "peak_time": "01:04:16",
+      "start_sec": 3841.5,
+      "end_sec": 3949.0,
+      "peak_time_sec": 3856.5,
+      "score": 0.5705,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:07:22",
+      "end": "02:07:42",
+      "peak_time": "02:07:38",
+      "start_sec": 7642.5,
+      "end_sec": 7662.5,
+      "peak_time_sec": 7657.5,
+      "score": 0.4668,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "02:14:52",
+      "end": "02:15:12",
+      "peak_time": "02:15:07",
+      "start_sec": 8092.0,
+      "end_sec": 8112.0,
+      "peak_time_sec": 8107.0,
+      "score": 0.218,
+      "source": [
+        "audio_peak"
+      ]
+    },
+    {
+      "start": "01:57:52",
+      "end": "01:58:12",
+      "peak_time": "01:58:07",
+      "start_sec": 7072.25,
+      "end_sec": 7092.25,
+      "peak_time_sec": 7087.25,
+      "score": -0.7502,
+      "source": [
+        "audio_peak"
+      ]
+    }
+  ]
+}

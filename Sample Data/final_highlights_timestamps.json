@@ -1,0 +1,626 @@
+{
+  "source_file": "/kaggle/working/transcript_with_timestamps.txt",
+  "chunk_model": "gemini-2.5-flash",
+  "final_model": "gemini-2.5-pro",
+  "num_segments": 3542,
+  "num_candidates": 240,
+  "num_final_highlights": 77,
+  "highlights": [
+    {
+      "event_type": "other",
+      "start": 123.33,
+      "end": 130.69,
+      "confidence": 0.9,
+      "evidence": "First runs, two of them through mid-wicket. Jason Roy gets his account up and running.",
+      "reason": "Jason Roy scores the first runs of the match."
+    },
+    {
+      "event_type": "four",
+      "start": 290.76,
+      "end": 296.26,
+      "confidence": 1.0,
+      "evidence": "Josh Butler didn't get all of that, but it's four all the way from the moment it left the outside half of his bat.",
+      "reason": "Josh Butler hits a four off the outside half of the bat."
+    },
+    {
+      "event_type": "milestone",
+      "start": 323.48,
+      "end": 332.16,
+      "confidence": 0.9,
+      "evidence": "Now that one looked in real time a touch quicker, 89. So he's already nudging the 90 miles an hour mark.",
+      "reason": "A bowler is noted for his high speed, approaching 90 miles per hour."
+    },
+    {
+      "event_type": "six",
+      "start": 446.93,
+      "end": 474.48,
+      "confidence": 1.0,
+      "evidence": "Well, just the pump it away over midwicket for six as Josh Butler has done there, that is a magnificent shot, the first six of the day, it won't be the last.",
+      "reason": "Josh Butler hits a magnificent shot for the first six of the match."
+    },
+    {
+      "event_type": "other",
+      "start": 699.74,
+      "end": 700.74,
+      "confidence": 0.9,
+      "evidence": "excellent fielding Ravindra Jadeja",
+      "reason": "Ravindra Jadeja is praised for an excellent piece of fielding."
+    },
+    {
+      "event_type": "four",
+      "start": 740.5,
+      "end": 763.04,
+      "confidence": 0.9,
+      "evidence": "swept away in fine style by Jason Roy",
+      "reason": "Jason Roy hits a four with a stylish sweep shot."
+    },
+    {
+      "event_type": "wicket",
+      "start": 957.09,
+      "end": 969.7,
+      "confidence": 0.98,
+      "evidence": "slower ball that Joss Butler has only managed to drag onto his leg stump",
+      "reason": "Joss Butler is dismissed, bowled by a slower ball that he drags onto his stumps."
+    },
+    {
+      "event_type": "six",
+      "start": 1221.47,
+      "end": 1224.85,
+      "confidence": 0.9,
+      "evidence": "beautifully hit the ball and that's it directly straight towards the sight screen",
+      "reason": "A powerful and beautiful shot is hit straight for a six."
+    },
+    {
+      "event_type": "six",
+      "start": 1343.06,
+      "end": 1346.86,
+      "confidence": 1.0,
+      "evidence": "so jadeja one ball has been drilled for six",
+      "reason": "A ball from Jadeja is hit powerfully for a six."
+    },
+    {
+      "event_type": "four",
+      "start": 1374.41,
+      "end": 1386.57,
+      "confidence": 1.0,
+      "evidence": "a jab a short arm jab through the leg side but it's four more",
+      "reason": "A short-arm jab through the leg side results in a four."
+    },
+    {
+      "event_type": "other",
+      "start": 1589.16,
+      "end": 1615.44,
+      "confidence": 0.9,
+      "evidence": "put down put down corn bowl chance goes begging slower ball again from Harshal chipped at him oh that's a genuine chance burst through his hands",
+      "reason": "A clear caught and bowled chance is dropped by the bowler, a significant missed opportunity."
+    },
+    {
+      "event_type": "review",
+      "start": 1926.92,
+      "end": 1945.92,
+      "confidence": 0.9,
+      "evidence": "was he outside the line was he outside the line punt has a huge role to play here could be umpire's call which means they keep their review they think it's outside the line they're not going to review",
+      "reason": "The fielding team discusses an LBW appeal but decides against taking a review."
+    },
+    {
+      "event_type": "review",
+      "start": 1991.22,
+      "end": 2022.69,
+      "confidence": 0.95,
+      "evidence": "my decision is not out repeat not out change your bowling yeah good work all around getting the dive in",
+      "reason": "The third umpire reviews a run-out appeal and confirms the on-field decision of 'not out'."
+    },
+    {
+      "event_type": "wicket",
+      "start": 2039.0,
+      "end": 2094.02,
+      "confidence": 0.98,
+      "evidence": "edged and gone great pace great carry... some comeback big wicket of roy... roy slashes at it young man is delighted jason roy gone for 27",
+      "reason": "Jason Roy is dismissed for 27, caught after edging a pacy delivery."
+    },
+    {
+      "event_type": "wicket",
+      "start": 2167.0,
+      "end": 2181.0,
+      "confidence": 1.0,
+      "evidence": "second wicket for malik in international t20 cricket",
+      "reason": "Umran Malik takes his second wicket in T20 international cricket."
+    },
+    {
+      "event_type": "wicket",
+      "start": 2234.0,
+      "end": 2237.0,
+      "confidence": 1.0,
+      "evidence": "finds the edge good catch from pant",
+      "reason": "A batsman edges the ball and is caught by the wicketkeeper, Rishabh Pant."
+    },
+    {
+      "event_type": "four",
+      "start": 2361.61,
+      "end": 2364.25,
+      "confidence": 1.0,
+      "evidence": "pulled well in front of square for 4",
+      "reason": "A well-executed pull shot in front of square goes for a four."
+    },
+    {
+      "event_type": "six",
+      "start": 2477.02,
+      "end": 2482.0,
+      "confidence": 1.0,
+      "evidence": "up and over and into the stands David Milland quick on the slog sweep",
+      "reason": "David Malan hits a six into the stands with a quick slog sweep."
+    },
+    {
+      "event_type": "wicket",
+      "start": 2808.36,
+      "end": 2817.84,
+      "confidence": 1.0,
+      "evidence": "and completely does fill Salt in the air. Salt goes for eight. 84 for three.",
+      "reason": "Phil Salt is caught out, dismissed for 8 runs, leaving England at 84 for three."
+    },
+    {
+      "event_type": "other",
+      "start": 3063.78,
+      "end": 3073.22,
+      "confidence": 0.9,
+      "evidence": "has been given a no ball, which we get a free hit, what a gift",
+      "reason": "A no-ball is called by the umpire, resulting in a free hit for the batting side."
+    },
+    {
+      "event_type": "four",
+      "start": 3226.89,
+      "end": 3259.82,
+      "confidence": 0.9,
+      "evidence": "beautiful shot, slapped it through the off side, gathering pace off the hard outfield here",
+      "reason": "Dawid Malan plays a beautiful shot, slapping the ball through the off-side for a boundary."
+    },
+    {
+      "event_type": "four",
+      "start": 3293.82,
+      "end": 3299.38,
+      "confidence": 0.9,
+      "evidence": "Milan's actually aiming a bit straighter there over straight mid wicket but drags it squareer still gets full value",
+      "reason": "Dawid Malan drags a shot squarer than intended but still gets a four."
+    },
+    {
+      "event_type": "six",
+      "start": 3313.64,
+      "end": 3315.8,
+      "confidence": 0.9,
+      "evidence": "just like to see Milan trying it that one for six",
+      "reason": "Dawid Malan hits the ball for a six."
+    },
+    {
+      "event_type": "milestone",
+      "start": 3527.0,
+      "end": 3529.28,
+      "confidence": 1.0,
+      "evidence": "it will be two that brings up a half century",
+      "reason": "Dawid Malan completes his half-century with a couple of runs."
+    },
+    {
+      "event_type": "six",
+      "start": 3596.74,
+      "end": 3633.07,
+      "confidence": 0.9,
+      "evidence": "oh big shot what a shot what an amazing shot you don't see many sixes hit over extra cover that is a wonderful shot",
+      "reason": "A spectacular and rare six is hit over the extra cover boundary."
+    },
+    {
+      "event_type": "six",
+      "start": 3774.98,
+      "end": 3781.88,
+      "confidence": 0.95,
+      "evidence": "smashed smashed a long way anything David Millan can do Liam Livingston says watch at this end I can do it just as well",
+      "reason": "Liam Livingstone hits a massive six, matching the power-hitting of his partner Dawid Malan."
+    },
+    {
+      "event_type": "six",
+      "start": 4133.17,
+      "end": 4147.41,
+      "confidence": 1.0,
+      "evidence": "what a strike, what a strike down the ground, again movement across so he can access the straight boundary, and again the very best of Davi Milan",
+      "reason": "Dawid Malan plays a brilliant strike straight down the ground for a six."
+    },
+    {
+      "event_type": "six",
+      "start": 4465.48,
+      "end": 4484.56,
+      "confidence": 1.0,
+      "evidence": "and again the result the same this one even bigger catch it in the crowd I think it's gone behind the stand actually it's such a big hit from Livingston",
+      "reason": "Liam Livingstone hits a colossal six that travels out of the ground."
+    },
+    {
+      "event_type": "wicket",
+      "start": 4758.78,
+      "end": 4773.9,
+      "confidence": 1.0,
+      "evidence": "that's up in the air, Pant doesn't have to move much, breaks the partnership, handy wicket this for India, Milan spat it beautifully, goes 77, an important wicket of David Milan",
+      "reason": "Dawid Malan is dismissed for 77, caught by Rishabh Pant, breaking a crucial partnership."
+    },
+    {
+      "event_type": "wicket",
+      "start": 4906.95,
+      "end": 4951.99,
+      "confidence": 1.0,
+      "evidence": "again onside the result the same two wickets in the over for Ravi Bishnoi he's got both the left handers out with googly's first Milan now Ali could be a match turning over this... Moinale's stay a short one he's gone first ball for north 169 for five",
+      "reason": "Ravi Bishnoi takes his second wicket of the over, dismissing Moeen Ali for a first-ball duck with a googly."
+    },
+    {
+      "event_type": "four",
+      "start": 5072.96,
+      "end": 5077.52,
+      "confidence": 0.9,
+      "evidence": "that's well struck one bounce over the rope at square leg",
+      "reason": "A well-struck shot goes for a one-bounce four over the square leg boundary."
+    },
+    {
+      "event_type": "other",
+      "start": 5160.42,
+      "end": 5175.21,
+      "confidence": 0.95,
+      "evidence": "it's in the air it will be taken but it's a free hit like we mentioned another couple of runs added must be a lovely feeling to stand in the middle knowing you can't be out to a ball",
+      "reason": "A batsman is caught in the deep, but survives and scores runs because the delivery was a free hit."
+    },
+    {
+      "event_type": "six",
+      "start": 5279.96,
+      "end": 5283.3,
+      "confidence": 0.9,
+      "evidence": "that's a fine strike really good strike into the crowd",
+      "reason": "A fine, powerful strike sends the ball into the crowd for a six."
+    },
+    {
+      "event_type": "other",
+      "start": 5382.16,
+      "end": 5387.06,
+      "confidence": 0.9,
+      "evidence": "but taken in the deep always put it down Virat Kohli of all people",
+      "reason": "A catch is dropped in the deep by star fielder Virat Kohli."
+    },
+    {
+      "event_type": "wicket",
+      "start": 5534.98,
+      "end": 5574.06,
+      "confidence": 1.0,
+      "evidence": "take him this time Ravi Bishnoi; he's having a good afternoon two wickets and now a good catch; this is a big wicket because Harry Brook is destructive; it went a long way up good catch under pressure Harry Brook 19 from nine; England won 97 for six",
+      "reason": "The dangerous Harry Brook is dismissed for 19, caught by Ravi Bishnoi after hitting the ball high in the air."
+    },
+    {
+      "event_type": "review",
+      "start": 5821.14,
+      "end": 5850.26,
+      "confidence": 0.95,
+      "evidence": "third umpire third umpire will check it but it seemed good from our perspective we're right near him I think he gets rid of the ball in time there before that back foot hits",
+      "reason": "The third umpire reviews a spectacular boundary save by Shreyas Iyer to confirm if the fielder was in contact with the rope."
+    },
+    {
+      "event_type": "four",
+      "start": 5915.36,
+      "end": 5919.46,
+      "confidence": 0.95,
+      "evidence": "that's gone through finds the boundary",
+      "reason": "A shot pierces the field and finds the boundary for four."
+    },
+    {
+      "event_type": "four",
+      "start": 5949.84,
+      "end": 5968.96,
+      "confidence": 0.9,
+      "evidence": "another one so consecutive boundaries here",
+      "reason": "A second consecutive boundary is hit, increasing the scoring rate."
+    },
+    {
+      "event_type": "six",
+      "start": 5984.3,
+      "end": 5999.58,
+      "confidence": 0.95,
+      "evidence": "Jordan just slicing it away and gets enough power on it to get it just over the boundary so it's a grandstand finish 4-6 | last ball of the innings",
+      "reason": "Chris Jordan hits a six on the final ball of the innings for a grandstand finish."
+    },
+    {
+      "event_type": "milestone",
+      "start": 6013.76,
+      "end": 6017.16,
+      "confidence": 0.9,
+      "evidence": "after 20 overs they finish on 215 for seven",
+      "reason": "England concludes their innings, setting a final score of 215 for 7."
+    },
+    {
+      "event_type": "review",
+      "start": 6310.56,
+      "end": 6312.26,
+      "confidence": 0.9,
+      "evidence": "to review it but he reviewed it too late",
+      "reason": "Rishabh Pant is given out and attempts to review the decision, but is timed out."
+    },
+    {
+      "event_type": "wicket",
+      "start": 6336.76,
+      "end": 6341.2,
+      "confidence": 1.0,
+      "evidence": "so he's gone Topley with his first delivery gets the wicket it's two for one",
+      "reason": "Reece Topley strikes with his very first ball, dismissing Rishabh Pant."
+    },
+    {
+      "event_type": "four",
+      "start": 6637.03,
+      "end": 6643.75,
+      "confidence": 1.0,
+      "evidence": "flicked it away over mid on and it will go away for full first boundary for India and Kohli",
+      "reason": "Virat Kohli scores India's first boundary with a flick over mid-on."
+    },
+    {
+      "event_type": "six",
+      "start": 6681.92,
+      "end": 6698.0,
+      "confidence": 1.0,
+      "evidence": "that is nailed for six what a shot this is look at the balance",
+      "reason": "Virat Kohli hits a perfectly balanced and powerful shot for six."
+    },
+    {
+      "event_type": "wicket",
+      "start": 6698.01,
+      "end": 6755.66,
+      "confidence": 1.0,
+      "evidence": "caught extra cover, by Kohli, no mistake from Jason Roy, Kohli went straight to Jason Roy, big big moment in the game, eleven from six for Kohli, it's thirteen for two",
+      "reason": "A huge moment in the game as Virat Kohli is caught at extra cover by Jason Roy for 11."
+    },
+    {
+      "event_type": "four",
+      "start": 7115.22,
+      "end": 7117.96,
+      "confidence": 1.0,
+      "evidence": "to nail him for four it's 20 for two",
+      "reason": "Suryakumar Yadav hits a boundary, taking India's score to 20 for two."
+    },
+    {
+      "event_type": "review",
+      "start": 7253.33,
+      "end": 7276.86,
+      "confidence": 0.95,
+      "evidence": "Butler thought there was something on the pad he might review it for that reason. I think Butler wants to review it so he gets rid of the wide. final skip going to review the wide",
+      "reason": "In an unusual move, England's captain Jos Buttler decides to review a wide call."
+    },
+    {
+      "event_type": "wicket",
+      "start": 7384.97,
+      "end": 7398.19,
+      "confidence": 1.0,
+      "evidence": "that's hit there's a man out there goes straight to him it's gone... India have lost three in their skipper",
+      "reason": "India's captain, Rohit Sharma, is dismissed after hitting the ball straight to a fielder in the deep."
+    },
+    {
+      "event_type": "six",
+      "start": 7825.14,
+      "end": 7829.22,
+      "confidence": 1.0,
+      "evidence": "and this one is just helped away over the leg side for six",
+      "reason": "A shot is deftly helped on its way over the leg side boundary for a six."
+    },
+    {
+      "event_type": "four",
+      "start": 7952.34,
+      "end": 7953.29,
+      "confidence": 0.9,
+      "evidence": "cut for four",
+      "reason": "Suryakumar Yadav hits a boundary with a cut shot."
+    },
+    {
+      "event_type": "six",
+      "start": 7953.3,
+      "end": 7954.24,
+      "confidence": 0.9,
+      "evidence": "and a sweep for six",
+      "reason": "Following a four, Suryakumar Yadav hits a six with a sweep shot."
+    },
+    {
+      "event_type": "wicket",
+      "start": 8148.14,
+      "end": 8151.18,
+      "confidence": 1.0,
+      "evidence": "straight into the hands of Gleeson at third man",
+      "reason": "A batsman is dismissed after hitting the ball directly to the fielder at third man."
+    },
+    {
+      "event_type": "other",
+      "start": 8601.53,
+      "end": 8633.5,
+      "confidence": 0.95,
+      "evidence": "oh brilliant Chris Jordan out in the deep does fantastically well to get a right hand on that and prevent the four",
+      "reason": "Chris Jordan makes a brilliant diving stop in the deep to save a certain boundary."
+    },
+    {
+      "event_type": "six",
+      "start": 8675.68,
+      "end": 8681.64,
+      "confidence": 1.0,
+      "evidence": "big full toss from Moeen Ali swung away leg side and over David Willey who trips over the boundary edge",
+      "reason": "A full toss is dispatched over the leg side for a six."
+    },
+    {
+      "event_type": "milestone",
+      "start": 9124.91,
+      "end": 9130.78,
+      "confidence": 0.95,
+      "evidence": "Surya Kumar Yadav just eases his way to 50",
+      "reason": "Suryakumar Yadav reaches his half-century with ease."
+    },
+    {
+      "event_type": "six",
+      "start": 9381.69,
+      "end": 9386.51,
+      "confidence": 1.0,
+      "evidence": "beautiful sweep shot into the short boundary six more",
+      "reason": "A beautiful sweep shot sends the ball into the shorter boundary for another six."
+    },
+    {
+      "event_type": "wicket",
+      "start": 9459.2,
+      "end": 9496.88,
+      "confidence": 0.95,
+      "evidence": "that's a brilliant take from Josh Butler and it was there to hit as well for you can see the anger in his face because he knows almost the perfect delivery for the reverse sweep",
+      "reason": "Shreyas Iyer is dismissed after a brilliant catch by wicketkeeper Jos Buttler off a reverse sweep attempt."
+    },
+    {
+      "event_type": "other",
+      "start": 9536.2,
+      "end": 9541.34,
+      "confidence": 0.9,
+      "evidence": "no ball, it's a no ball as well, free hit",
+      "reason": "The umpire signals a no-ball, awarding a free hit to the batting side."
+    },
+    {
+      "event_type": "six",
+      "start": 9569.1,
+      "end": 9584.52,
+      "confidence": 1.0,
+      "evidence": "free hit, into the stands, that's exactly what he's done, costly no ball, and Surya Kumar Yadav is not going to miss out",
+      "reason": "Suryakumar Yadav takes full advantage of a free hit, smashing the ball into the stands for a six."
+    },
+    {
+      "event_type": "review",
+      "start": 9633.85,
+      "end": 9681.51,
+      "confidence": 1.0,
+      "evidence": "ultra edge please flat line all the way through foot's clearly grounded behind the line I'm ready with my decision for the big screen my decision is not out repeat not out",
+      "reason": "An umpire review for a stumping is conducted, and the third umpire confirms the batsman is safe, ruling 'not out'."
+    },
+    {
+      "event_type": "six",
+      "start": 9774.19,
+      "end": 9832.61,
+      "confidence": 0.95,
+      "evidence": "what an incredible shot this is... guided down to third man... uses all of the pace and clears the ropes easily... the brilliance and skill of that shot that is all down to Suryakumar Yadav",
+      "reason": "Suryakumar Yadav plays an extraordinary and skillful shot, guiding the ball over the third man boundary for a six."
+    },
+    {
+      "event_type": "four",
+      "start": 9866.85,
+      "end": 9929.59,
+      "confidence": 0.9,
+      "evidence": "again wrist work finds the gap long leg was in place but he's nowhere near fine enough it looked like a slower ball whatever he's bowling at the moment is still going to the boundary",
+      "reason": "With brilliant wrist-work, Suryakumar Yadav finds the gap for another boundary."
+    },
+    {
+      "event_type": "milestone",
+      "start": 9991.55,
+      "end": 9993.57,
+      "confidence": 0.9,
+      "evidence": "partnership of a hundred and one",
+      "reason": "The batting pair brings up a significant partnership of over 100 runs."
+    },
+    {
+      "event_type": "wicket",
+      "start": 10430.21,
+      "end": 10462.92,
+      "confidence": 0.95,
+      "evidence": "and gone I reckon Shreya Zaya has just nicked it through to Josh Butler third wicket for him; Reece Topley has done the job; Zaya goes for 28 from 23",
+      "reason": "Reece Topley breaks the partnership, taking his third wicket as Shreyas Iyer is caught behind for 28."
+    },
+    {
+      "event_type": "milestone",
+      "start": 10866.51,
+      "end": 10882.59,
+      "confidence": 1.0,
+      "evidence": "Surya Kumar gets back on strike he's on 97 brilliant innings this striking at over 200 literally single-handedly has kept India in this contest",
+      "reason": "Suryakumar Yadav moves to 97, on the verge of a century after a brilliant, single-handed effort to keep India in the game."
+    },
+    {
+      "event_type": "milestone",
+      "start": 10908.94,
+      "end": 10934.47,
+      "confidence": 1.0,
+      "evidence": "100 for India, what an innings that is, one of the great T20 hundreds, it is his first, he moves from 50 to 100 in 16 balls, it is a remarkable innings",
+      "reason": "Suryakumar Yadav completes a remarkable first T20 international hundred, scoring his second fifty in just 16 balls."
+    },
+    {
+      "event_type": "review",
+      "start": 11004.44,
+      "end": 11035.0,
+      "confidence": 1.0,
+      "evidence": "Butler will review | director we have a player review for LVW",
+      "reason": "Jos Buttler calls for a player review for an LBW decision that was given not out on the field."
+    },
+    {
+      "event_type": "wicket",
+      "start": 11071.42,
+      "end": 11093.8,
+      "confidence": 1.0,
+      "evidence": "Alex I'm going to ask you to reverse your decision stand by | it didn't it pitched just in line Kartik goes six from seven one sixty six for five",
+      "reason": "After a successful review, the third umpire instructs the on-field umpire to reverse his decision, dismissing Dinesh Karthik LBW."
+    },
+    {
+      "event_type": "review",
+      "start": 11317.14,
+      "end": 11342.56,
+      "confidence": 0.98,
+      "evidence": "surely Plum surely yes | Jadeja reviews | we have a player review for LBW",
+      "reason": "After being given out LBW, Ravindra Jadeja immediately calls for a player review."
+    },
+    {
+      "event_type": "wicket",
+      "start": 11387.58,
+      "end": 11470.53,
+      "confidence": 1.0,
+      "evidence": "pitching in line impact in line wickets hitting stay with the original decision | Jadeja goes for seven 173 for six two important leg before decisions",
+      "reason": "The ball-tracking technology confirms the umpire's original decision, and Ravindra Jadeja is dismissed LBW for 7."
+    },
+    {
+      "event_type": "four",
+      "start": 11691.96,
+      "end": 11700.55,
+      "confidence": 0.9,
+      "evidence": "up and over I reckon that will run away for four in this outfield it does",
+      "reason": "A shot hit up and over the infield has enough pace to run away for a four."
+    },
+    {
+      "event_type": "six",
+      "start": 11748.63,
+      "end": 11762.73,
+      "confidence": 0.95,
+      "evidence": "six sixes that's the sixth one goes many a mile into the crowd",
+      "reason": "Suryakumar Yadav hits his sixth six of the innings, a massive shot that travels far into the crowd."
+    },
+    {
+      "event_type": "four",
+      "start": 11811.5,
+      "end": 11814.88,
+      "confidence": 0.9,
+      "evidence": "second time he's found the boundary",
+      "reason": "Suryakumar Yadav finds the boundary again with another well-placed shot."
+    },
+    {
+      "event_type": "wicket",
+      "start": 11862.86,
+      "end": 11920.72,
+      "confidence": 1.0,
+      "evidence": "salt at long off diving forward and takes the catch and it brings to end a truly remarkable innings from Surya Kumar Yadav | what an innings the crowd stands up",
+      "reason": "A truly remarkable innings from Suryakumar Yadav ends as he is caught at long-off, receiving a standing ovation from the crowd."
+    },
+    {
+      "event_type": "four",
+      "start": 11972.46,
+      "end": 11978.72,
+      "confidence": 0.9,
+      "evidence": "swung leg side, there is a sweeper out there, he'll do well to catch up with it, he can't",
+      "reason": "A powerful swing to the leg side beats the sweeper on the boundary for a four."
+    },
+    {
+      "event_type": "wicket",
+      "start": 12202.18,
+      "end": 12214.93,
+      "confidence": 0.9,
+      "evidence": "up in the air should be taken it is taken Gleeson with the catch",
+      "reason": "Harshal Patel is dismissed, caught by Richard Gleeson after hitting the ball up in the air."
+    },
+    {
+      "event_type": "milestone",
+      "start": 12337.76,
+      "end": 12348.56,
+      "confidence": 0.95,
+      "evidence": "finishes it and finishes it in style the in swinging Yorker | and a smile to Butler's face his first win as official captain",
+      "reason": "England wins the match with a stylish in-swinging yorker, securing Jos Buttler's first victory as official captain."
+    }
+  ]
+}

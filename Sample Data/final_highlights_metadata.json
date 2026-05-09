@@ -1,0 +1,398 @@
+[
+  {
+    "event_type": "Four",
+    "start_sec": 264.63,
+    "end_sec": 277.01,
+    "reason": "The commentator says 'Treats his first ball to the fence now' at 272.9s. This is corroborated by the OCR which detects a four at 280.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 446.05,
+    "end_sec": 463.23,
+    "reason": "The commentator explicitly states at 450.0s, 'Just pump it away over mid wicket for six'. This is corroborated by the OCR which detects a six at 459.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 739.87,
+    "end_sec": 756.59,
+    "reason": "The commentator describes the shot at 745.5s as 'swept away in a fine style'. The OCR confirms a six at 763.0s, and the commentary then confirms the score is '27 for none'."
+  },
+  {
+    "event_type": "Wicket",
+    "start_sec": 931.43,
+    "end_sec": 956.12,
+    "reason": "The commentator first expresses 'disappointment from Joss Butler' at 938.7s and then confirms he 'drags one onto his stumps'. This is corroborated by the OCR detecting a wicket at 954.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 1199.4,
+    "end_sec": 1210.24,
+    "reason": "The commentator describes a shot as 'nonchalantly played' with 'lovely flow and fluency' starting at 1200.8s. The OCR confirms a six on the scoreboard at 1211.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 1333.1,
+    "end_sec": 1350.55,
+    "reason": "The commentator states at 1333.6s that the ball 'has been drilled for six'."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 1369.23,
+    "end_sec": 1378.51,
+    "reason": "The commentator says 'it's four more' at 1371.9s, and the OCR confirms a four at 1373.0s."
+  },
+  {
+    "event_type": "Dropped Catch",
+    "start_sec": 1578.84,
+    "end_sec": 1602.75,
+    "reason": "The commentator says 'In the air' at 1584.9s, followed by 'And put down' at 1586.1s. This is a clear indication of a dropped catch, though there is no corresponding OCR data."
+  },
+  {
+    "event_type": "DRS Review",
+    "start_sec": 1920.75,
+    "end_sec": 2000.0,
+    "reason": "The commentary team discusses a potential LBW appeal and review starting at 1926.7s, asking 'Was he outside the line?'. The discussion continues until the team decides not to review at 1945.1s. No OCR data is available to confirm this event."
+  },
+  {
+    "event_type": "Wicket",
+    "start_sec": 2042.12,
+    "end_sec": 2069.03,
+    "reason": "The commentator exclaims 'Edged and gone' at 2049.3s. This is corroborated by the OCR, which detects a wicket on the scoreboard at 2058.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 2176.26,
+    "end_sec": 2189.65,
+    "reason": "The commentator describes the shot as a 'Punch down the ground' and a 'Great shot' starting at 2182.8s. This is corroborated by the OCR detecting a four at 2190.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 2326.0,
+    "end_sec": 2339.84,
+    "reason": "The commentator says \"Sweeper out there. Sweeper can't get there,\" indicating a boundary. The OCR confirms a Four at 2348.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 2474.17,
+    "end_sec": 2494.0,
+    "reason": "The commentator calls the shot 'Up and over and into the stands' at 2477.1s. The OCR confirms a six at 2484.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 3025.96,
+    "end_sec": 3031.05,
+    "reason": "The commentator exclaims 'Heaved' at 3043.2s, reacting to a powerful shot. The OCR confirms a Four was scored at 3049.0s."
+  },
+  {
+    "event_type": "No Ball",
+    "start_sec": 3056.5,
+    "end_sec": 3072.5,
+    "reason": "The commentator explicitly states 'Has been given a no ball' at 3065.1s, which is a significant event leading to a free hit."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 3224.6,
+    "end_sec": 3231.83,
+    "reason": "Commentary at 3233.6s exclaims 'Beautiful shot'. The OCR confirms a four at 3239.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 3242.75,
+    "end_sec": 3262.75,
+    "reason": "Commentary at 3260.1s describes a powerful shot that was 'teeing up'. The OCR confirms a six at 3278.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 3558.45,
+    "end_sec": 3571.25,
+    "reason": "Commentary exclaims 'Smashed. Absolutely smashed.' starting at 3559.4s. The OCR confirms a four at 3565.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 3581.35,
+    "end_sec": 3595.0,
+    "reason": "Commentary exclaims 'Oh, big shot. What a shot.' starting at 3596.6s. The OCR confirms a six at 3613.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 3771.75,
+    "end_sec": 3791.75,
+    "reason": "The commentator exclaims 'Smashed, smashed a long way' at 3775.2s. The OCR confirms a six at 3782.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 4011.0,
+    "end_sec": 4030.43,
+    "reason": "The commentator reacts to the shot at 4020.0s, saying 'Just picked up, just picked up, and enough elevation'. The OCR confirms a six at 4034.0s, and the commentator states the new score of 142/3 at 4034.5s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 4128.82,
+    "end_sec": 4144.75,
+    "reason": "The commentator exclaims \"What a strike. What a strike down the ground\" at 4138.1s, and the OCR confirms a six at 4145.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 4431.66,
+    "end_sec": 4446.34,
+    "reason": "The commentator calls 'six' at 4434.4s. The OCR confirms a six at 4442.0s."
+  },
+  {
+    "event_type": "Wicket",
+    "start_sec": 4755.65,
+    "end_sec": 4778.77,
+    "reason": "The commentator says 'That's up in the air' at 4758.8s, followed by confirmation of the catch and partnership being broken. The OCR confirms a wicket at 4769.0s."
+  },
+  {
+    "event_type": "Wicket",
+    "start_sec": 4903.23,
+    "end_sec": 4932.25,
+    "reason": "The commentator confirms the wicket at 4909.8s, stating 'Two wickets in the over for Ravi Bishnoi'. This is corroborated by the OCR data at 4944.0s, which shows the score as 169/5."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 5070.53,
+    "end_sec": 5081.0,
+    "reason": "Commentary at 5073.0s exclaims 'That's well struck' followed by 'One bounce. Over the rope'. This is corroborated by the OCR detecting a four at 5080.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 5272.03,
+    "end_sec": 5288.15,
+    "reason": "The commentator exclaims 'That's a fine strike... into the crowd' at 5280.0s. This is corroborated by the OCR which detects a six at 5287.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 5448.0,
+    "end_sec": 5460.82,
+    "reason": "The commentator says 'Fine shot' at 5460.5s, which is corroborated by the OCR detecting a four at 5468.0s."
+  },
+  {
+    "event_type": "Wicket",
+    "start_sec": 5532.23,
+    "end_sec": 5559.07,
+    "reason": "The commentator exclaims, 'And it's off in the air... Taken this time,' starting at 5534.9s. This is corroborated by the OCR, which detects a wicket at 5552.0s."
+  },
+  {
+    "event_type": "DRS Review",
+    "start_sec": 5820.08,
+    "end_sec": 5891.32,
+    "reason": "The commentator explicitly states 'Third umpire. Third umpire will check it' starting at 5837.5s, indicating a review of a boundary save. There is no OCR confirmation."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 5906.8,
+    "end_sec": 5921.75,
+    "reason": "The commentator reacts at 5915.4s with 'That's gone through' and confirms it 'Finds the boundary' at 5918.5s. The OCR confirms a four at 5922.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 5956.32,
+    "end_sec": 5972.9,
+    "reason": "The commentator reacts at 5965.9s with 'Another one' and confirms 'consecutive boundaries' at 5967.2s. The OCR confirms a six at 5974.0s."
+  },
+  {
+    "event_type": "Wicket & DRS Review",
+    "start_sec": 6269.03,
+    "end_sec": 6331.79,
+    "reason": "Commentary at 6274.8s says 'Yeah, he's been given' and later confirms 'gets the wicket' at 6339.8s. The OCR confirms a wicket at 6312.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 6635.1,
+    "end_sec": 6647.14,
+    "reason": "Commentary at 6635.6s describes a 'Flick of the wrist' that goes for a 'boundary'. This is confirmed by the OCR detecting a Four at 6646.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 6667.19,
+    "end_sec": 6686.5,
+    "reason": "Commentary at 6678.1s exclaims 'Oh, hold the pose, Virat Kohli... That is nailed for six.' This is corroborated by the OCR detecting a Six at 6688.0s."
+  },
+  {
+    "event_type": "Wicket",
+    "start_sec": 6712.67,
+    "end_sec": 6740.5,
+    "reason": "Commentary at 6717.0s says 'Goes again. And goes. Caught extra cover... Four, six and out, Virat Kohli.' This is confirmed by the OCR detecting a Wicket at 6729.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 7106.57,
+    "end_sec": 7118.44,
+    "reason": "Commentary at 7113.1s explicitly states 'nail him for four'. This is corroborated by the OCR update at 7118.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 7151.94,
+    "end_sec": 7160.42,
+    "reason": "Commentary reacts to the shot live with 'Up and over' at 7167.7s. The OCR confirms a four was scored at 7175.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 7324.58,
+    "end_sec": 7334.19,
+    "reason": "The commentator describes the shot with excitement at 7320.0s, saying 'Picked up one-handed'. The OCR confirms a four was scored at 7329.0s."
+  },
+  {
+    "event_type": "Wicket",
+    "start_sec": 7361.0,
+    "end_sec": 7392.0,
+    "reason": "The commentator begins describing the shot at 7384.9s, leading to the exclamation 'It's gone' at 7387.6s. The OCR confirms a wicket at 7422.0s, and the score of 31/3 is mentioned in both sources."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 7768.63,
+    "end_sec": 7768.63,
+    "reason": "The commentator reacts with 'Nicely timed' and 'Beautiful shot', later confirming 'That's always four'. The OCR detects a four at 7792.0s, corroborating the event."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 7809.5,
+    "end_sec": 7828.62,
+    "reason": "The commentator's first reaction is 'As easy as you like', followed by a clear description of the shot going 'over the leg side for six'. The OCR confirms a six at 7823.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 8366.83,
+    "end_sec": 8378.2,
+    "reason": "Commentary at 8368.2s describes a powerful cut shot, and at 8372.0s confirms it's a boundary. This is corroborated by the OCR detecting a four at 8374.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 8419.14,
+    "end_sec": 8431.29,
+    "reason": "Commentary at 8421.9s describes the shot, and at 8424.4s explicitly calls it 'another boundary'. This aligns with the OCR detection of a four at 8429.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 8473.03,
+    "end_sec": 8486.75,
+    "reason": "Commentary at 8480.6s describes a shot 'hit sweetly' that 'beats Jason Roy at long on'. This is confirmed by the OCR detecting a four at 8490.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 8671.46,
+    "end_sec": 8687.25,
+    "reason": "The commentator describes a 'Big full toss' that is 'Swung away leg side and over David Willey' starting at 8674.7s. The OCR confirms a six at 8689.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 8971.1,
+    "end_sec": 8980.44,
+    "reason": "The commentator exclaims 'What a shot' at 8984.9s, and the OCR confirms a four at 8991.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 9443.23,
+    "end_sec": 9462.29,
+    "reason": "The commentator exclaims 'What a shot' at 9459.1s, and the OCR confirms a six on the scoreboard at 9466.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 9563.75,
+    "end_sec": 9579.0,
+    "reason": "The commentator exclaims 'Into the stands' at 9569.3s. The OCR confirms a six at 9583.0s. The commentary also notes this was a free hit following a no-ball."
+  },
+  {
+    "event_type": "DRS Review",
+    "start_sec": 9617.41,
+    "end_sec": 9693.3,
+    "reason": "The commentator suggests a review at 9624.9s, and the TV umpire officially announces a review for stumping at 9634.0s. No OCR data is available to confirm."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 9768.66,
+    "end_sec": 9779.51,
+    "reason": "The commentator exclaims 'Up a long way' at 9774.6s, which is a clear reaction to a big hit. This is corroborated by the OCR detecting a six at 9792.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 9918.07,
+    "end_sec": 9931.5,
+    "reason": "The commentator describes the ball beating the fielder at 9921.0s and later confirms it went to the boundary. The OCR also detects a four at 9926.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 10128.95,
+    "end_sec": 10140.73,
+    "reason": "The commentator says 'Just helped on his way' at 10132.3s and follows up by saying the batter is 'accessing all parts of the boundary'. The OCR confirms a four at 10149.0s."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 10351.81,
+    "end_sec": 10371.75,
+    "reason": "Commentary at 10362.0s exclaims, 'He goes into the stands again.' This is confirmed by the OCR detecting a six at 10363.0s and the subsequent commentary mentioning '150 up' and '150 for three'."
+  },
+  {
+    "event_type": "Wicket",
+    "start_sec": 10430.25,
+    "end_sec": 10448.94,
+    "reason": "The commentator calls the wicket at 10434.3s with 'And gone, I reckon'. This is confirmed by the OCR which detects a wicket at 10441.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 10782.81,
+    "end_sec": 10782.81,
+    "reason": "The commentator exclaims 'He can. Bounce four.' at 10783.7s. This is corroborated by the OCR data, which detects a four at 10793.0s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 10903.26,
+    "end_sec": 10905.79,
+    "reason": "The commentator calls the boundary at 10902.3s, saying 'He squirts it away for four'. The OCR confirms a four at 10914.0s. This shot also brought up the batsman's hundred."
+  },
+  {
+    "event_type": "DRS Review",
+    "start_sec": 10992.5,
+    "end_sec": 11070.88,
+    "reason": "The commentator reacts to a close appeal at 10998.5s, followed by the statement 'Butler will review' at 11004.9s. The TV umpire then begins the review process. No OCR data is available to confirm."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 11276.63,
+    "end_sec": 11294.0,
+    "reason": "Commentary describes the ball being hit 'straight back over his head' and then 'all the way for six' starting at 11277.6s. OCR confirms the six at 11285.0s."
+  },
+  {
+    "event_type": "Wicket & DRS Review",
+    "start_sec": 11312.4,
+    "end_sec": 11398.25,
+    "reason": "Commentators exclaim 'Surely plumb' at 11321.7s, indicating a strong LBW appeal that is given out. OCR confirms a wicket at 11336.0s."
+  },
+  {
+    "event_type": "Wicket",
+    "start_sec": 11447.5,
+    "end_sec": 11465.22,
+    "reason": "The commentator states, 'Jadeja goes for seven. 173 for six,' indicating a wicket has just fallen. This is post-event analysis, but it's the first mention in the provided transcript. No OCR data is available to confirm."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 11693.68,
+    "end_sec": 11706.75,
+    "reason": "The commentator says 'I reckon that will run away for four' at 11697.7s. There is no corresponding OCR to confirm this boundary."
+  },
+  {
+    "event_type": "Six",
+    "start_sec": 11729.92,
+    "end_sec": 11746.5,
+    "reason": "The commentator exclaims 'How good is this?' at 11738.8s, which aligns with the OCR detection of a six at 11740.0s. The commentary later confirms 'That's the sixth one' at 11759.4s."
+  },
+  {
+    "event_type": "Four",
+    "start_sec": 11787.14,
+    "end_sec": 11798.95,
+    "reason": "OCR detects a four at 11797.0s, and the commentary immediately begins describing the shot to that region at 11797.6s."
+  },
+  {
+    "event_type": "Wicket",
+    "start_sec": 11844.0,
+    "end_sec": 11865.0,
+    "reason": "The commentator first reacts to the shot at 11847.0s with 'End of the bat', and then describes Salt taking a diving catch. The OCR confirms a wicket at 11868.0s."
+  },
+  {
+    "event_type": "Wicket",
+    "start_sec": 12200.59,
+    "end_sec": 12229.92,
+    "reason": "The commentator exclaims 'Up in the air. Should be taken. It is taken.' starting at 12209.8s. This is corroborated by the OCR which detects a wicket at 12220.0s."
+  }
+]
