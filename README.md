@@ -81,6 +81,22 @@ Evaluated on a full 3.5-hour ENG vs. IND T20 broadcast. Mean temporal alignment 
 
 ---
 
+## Repository Structure
+
+This repository contains the code, documentation, and research notebooks for the automatic cricket highlight generation pipeline.
+
+```text
+├── YOLO+OCR ONLY Approach/
+│   └── (Directory containing isolated scripts and experiments that rely strictly on YOLO object detection and scoreboard OCR)
+├── FINAL_INTEGRATED_CODE(WITH TRANSCRIPT GENERATION).ipynb  # Full "Verify then Anchor" pipeline utilising both scoreboard OCR as the source of truth and audio analysis/transcripts
+├── FINAL_INTEGRATED_CODE(WITHOUT TRANSCRIPT GENERATION).ipynb   # Integrated pipeline utilising visual features and scoreboard OCR, excluding audio transcription analysis
+├── Most Replayed Graph - Approach.ipynb             # Notebook analysing viewer retention/replay graphs to identify potential highlight peaks
+├── optical-flow-implementation.ipynb                # Implementation and exploration of optical flow techniques for motion tracking in cricket footage
+├── Presentation Automatic Cricket Highlight Generation  # Slide deck outlining the project methodology, pipeline architecture, and final results
+├── Report_Automatic_Cricket_Highlight_Generation   # Comprehensive project report detailing the theoretical background and implementation
+└── README.md                                        # Project overview, setup instructions, and repository guide
+```
+
 ## Datasets & Resources
 
 | Resource | Source |
